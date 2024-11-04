@@ -1,0 +1,6 @@
+{
+    "liveServer.settings.port": 5501,
+    "editor.autoClosingBrackets": "always",
+    "editor.guides.bracketPairs": "active",
+    "editor.cursorSmoothCaretAnimation": "on"
+}
